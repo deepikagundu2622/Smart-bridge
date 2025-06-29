@@ -1,0 +1,23 @@
+.home .hero {
+ background-size: cover;
+  background-position: center;
+  height: 85vh;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero .overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+}
+
+.search-bar input {
+  margin: 5px;
+  padding: 8px;
+  width: 150px;
+}
